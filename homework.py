@@ -106,6 +106,35 @@ print(" ".join(new_list))
 연습문제2
 '''
 print("연습문제2")
+a = "Life is too short, you need python"
+if 'wife' in a:
+    print('wife')
+elif 'python' in a and 'you' not in a:
+    print('python')
+elif 'shirt' not in a:
+    print('shirt')
+elif 'need' in a:
+    print("need")
+else:
+    print('none')
+
+
+'''
+연습문제3
+'''
+print("연습문제3")
+star = ''
+while len(star)<10:
+    star += '*'
+    if len(star) ==5:
+        break
+    print(star)
+
+
+'''
+연습문제4
+'''
+print("연습문제4")
 mut = 'mutzangesazachurum'
 count = 0
 for i in mut:
