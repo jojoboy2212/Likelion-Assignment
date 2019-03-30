@@ -1,0 +1,229 @@
+.navbar-brand {
+    height: 200px;
+    width: 18%;
+    margin-left: 8%;
+    margin-right: 0% !important;
+
+}
+
+.navbar-brand img{
+    height: 100%;
+    width: auto;
+    
+}
+#navbarNav {
+    left: 10%;
+}
+.navbar-nav {
+    width: 30%;
+    height: 140px;
+    justify-content: space-around;
+    margin-right: 50%;
+    
+}
+.nav-item {
+    display: flex;
+    align-items: center;
+    font-size: 60px;
+    margin-left: 20%;
+    
+
+}
+.empty-space {
+    height: 100%;
+    width: 5%;
+}
+.input-group {
+    width: 1000px !important;
+    margin-right: 5%;
+
+}
+.form-control {
+    width: 100%;
+}
+.form-inline {
+    margin-left: 0%;
+
+}
+.form-inline .form-control{
+    width: 40%;
+    height: 100%;
+    text-align: center;
+}
+.input-group-addon {
+
+    margin-left: 0%;
+    position: absolute;
+    left: 37%;
+    top: 14%;
+    z-index: 100;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+    width: 100%;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin: 0px;
+
+
+}
+
+.profile {
+    width: 100%;
+    height: 300px;
+    top: 200px;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    font-family: sans-serif;
+    margin-top: 4%;
+    margin-left: 20%;
+    
+
+}
+.propic img {
+    height: 400px;
+    width: auto;
+    border-radius: 50%;
+    border-color: black;
+    border: 1px solid;
+    margin-top: 60%;
+    margin-right: 30%;
+}
+.first-row {
+    width: 25%;
+    height: 120px;
+    justify-content: space-between;
+    margin-left: 10%;
+}
+
+.first {
+    display: flex;
+    justify-content: space-between;
+    font-size: 100px;
+    font-style: bold;
+    font-family: sans-serif
+    
+}
+.second {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.subpics {
+    display: flex;
+    width: 50%;
+    margin-left: 18%;
+    margin-top: 6%;
+}
+.first-pic {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 5%;
+}
+.first-pic img {
+    border-radius: 50%;
+    height: 200px;
+    width: auto;
+}
+.second-pic {
+    flex-direction: column;
+    text-align: center;
+}
+.second-pic img {
+    border-radius: 50%;
+    height: 200px;
+    width: auto;
+}
+
+.borderline {
+    border-bottom: 1px solid rgb(228, 228, 228);
+    width: 70%;
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+}
+
+.page-icons {
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
+    margin-left: -12%;
+
+}
+
+.first-icon {
+    display: flex;
+    margin: 2%;
+    margin-right: 1%;
+    margin-top: 0%;
+}
+.POSTS {
+    margin-left: 10%;
+    margin-top: -7%;
+}
+.second-icon {
+    display: flex;
+    margin: 2%;
+    margin-right: 1%;
+    margin-top: 0%;
+}
+.IGTV {
+    margin-left: 10%;
+    margin-top: -7%;
+}
+.third-icon {
+    display: flex;
+    margin: 2%;
+    margin-right: 1%;
+    margin-top: 0%;
+}
+.SAVED {
+    margin-left: 10%;
+    margin-top: -7%;
+}
+.fourth-icon {
+    display: flex;
+    margin: 2%;
+    margin-right: 1%;
+    margin-top: 0%;
+}
+.TAGGED {
+    margin-left: 10%;
+    margin-top: -7%;
+}
+.postpic {
+    margin: 12%;
+    margin-top: 3%;
+    margin-left: 15%;
+}
+
+.postpic img {
+    height: 800px;
+    width: 800px;
+    margin: 50px;
+}
+
+.row1 {
+    display: flex;
+}
+.row2 {
+    display: flex;
+}
+.row3 {
+    display: flex;
+}
+
+* {
+    font-style: normal;
+}
